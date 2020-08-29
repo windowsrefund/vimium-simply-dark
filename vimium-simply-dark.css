@@ -8,6 +8,7 @@
 #vimiumHintMarkerContainer div span {
   color: #fff;
   text-shadow: none;
+  font-size: 14px;
 }
 
 #vimiumHintMarkerContainer div > .matchingCharacter {
